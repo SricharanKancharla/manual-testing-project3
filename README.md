@@ -216,10 +216,10 @@ online-learning-platform-testing/
 *(To be updated after test execution)*
 
 - **Total Test Cases:** 9
-- **Test Cases Executed:** TBD
-- **Pass Rate:** TBD%
-- **Defects Found:** TBD
-- **Critical/High Severity Defects:** TBD
+- **Test Cases Executed:** 9
+- **Pass Rate:** 77.8%
+- **Defects Found:** 2
+- **Critical/High Severity Defects:** 1
 - **Test Coverage:** 100% (Course Discovery & Enrollment Module)
 
 ## 🔗 Test Execution Summary
