@@ -70,7 +70,7 @@ This project demonstrates comprehensive manual testing of an online learning pla
 
 **Primary Browser:** Google Chrome (Latest Version)
 
-**Operating System:** Windows 10
+**Operating System:** Windows 11
 
 **Additional Testing:**
 - Mozilla Firefox (Latest Version)
@@ -371,4 +371,4 @@ This project was created as a demonstration of manual testing skills with focus 
 
 ---
 
-*Last Updated: January 27, 2026*
+*Last Updated: January 28, 2026*
